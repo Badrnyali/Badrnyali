@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Badrnyali
+- 👋 Hi, I’m Badr
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning JS Framework 
 - 📫 Reach me at badr.nya@gmail.com
+- 📝 https://badrnyali.github.io/mysite/
 
 <!---
 Badrnyali/Badrnyali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
