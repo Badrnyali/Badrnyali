@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badr
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning JS Framework 
+- 🌱 I’m currently learning Vue Js
 - 📫 Reach me at badr.nya@gmail.com
 - 📝 https://badrnyali.github.io/mysite/
 
